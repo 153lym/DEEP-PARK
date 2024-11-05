@@ -1,5 +1,5 @@
 ## DEEP-PARK
-This is the source code for the paper "DEEP-PARK: A PAthway RanKing Framework with Deep Learning-Based Explainer Methodology for Elucidating Therapeutic Mechanisms in Drug-Disease Complex Network", published in xxx. The web site is http://ebm-herb.com/function/deepPark. Welcome to use!
+This is the source code for the paper "DEEP-PARK...", published in xxx. The web site is http://ebm-herb.com/function/deepPark. Welcome to use!
 
 If you use the code in this repository or DEEP-PARK tool in our website, you can cite this paper.
 
